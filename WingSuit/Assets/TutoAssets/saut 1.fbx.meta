@@ -1,19 +1,25 @@
 fileFormatVersion: 2
-guid: 9fadf28cfecc9984cb4ca679f6bf0a19
+guid: dd6e72250d512df4b9805af4f9949b6b
 ModelImporter:
   serializedVersion: 19301
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: 5064966036600762123
+    second: Armature.001|Armature.001|Armature|Armature|mixamo.com|Layer0|Armature|Armat
+  - first:
+      74: -8653495548688860585
+    second: Armature.001|Armature|Armature|Armature|mixamo.com|Layer0|Armature|Armature|
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Ch20_body
+      name: Ch20_body.001
     second: {fileID: 2100000, guid: 932081f063d70714c991ffeb29ca5d7b, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -87,7 +93,7 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     globalScale: 1
-    rootMotionBoneName: 
+    rootMotionBoneName: Ch20.001
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
@@ -95,7 +101,7 @@ ModelImporter:
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
+  avatarSetup: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
